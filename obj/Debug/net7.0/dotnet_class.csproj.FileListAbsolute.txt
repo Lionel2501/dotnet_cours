@@ -1,0 +1,15 @@
+/home/lionel/Documentos/dotnet_class/bin/Debug/net7.0/dotnet_class
+/home/lionel/Documentos/dotnet_class/bin/Debug/net7.0/dotnet_class.deps.json
+/home/lionel/Documentos/dotnet_class/bin/Debug/net7.0/dotnet_class.runtimeconfig.json
+/home/lionel/Documentos/dotnet_class/bin/Debug/net7.0/dotnet_class.dll
+/home/lionel/Documentos/dotnet_class/bin/Debug/net7.0/dotnet_class.pdb
+/home/lionel/Documentos/dotnet_class/obj/Debug/net7.0/dotnet_class.csproj.AssemblyReference.cache
+/home/lionel/Documentos/dotnet_class/obj/Debug/net7.0/dotnet_class.GeneratedMSBuildEditorConfig.editorconfig
+/home/lionel/Documentos/dotnet_class/obj/Debug/net7.0/dotnet_class.AssemblyInfoInputs.cache
+/home/lionel/Documentos/dotnet_class/obj/Debug/net7.0/dotnet_class.AssemblyInfo.cs
+/home/lionel/Documentos/dotnet_class/obj/Debug/net7.0/dotnet_class.csproj.CoreCompileInputs.cache
+/home/lionel/Documentos/dotnet_class/obj/Debug/net7.0/dotnet_class.dll
+/home/lionel/Documentos/dotnet_class/obj/Debug/net7.0/refint/dotnet_class.dll
+/home/lionel/Documentos/dotnet_class/obj/Debug/net7.0/dotnet_class.pdb
+/home/lionel/Documentos/dotnet_class/obj/Debug/net7.0/dotnet_class.genruntimeconfig.cache
+/home/lionel/Documentos/dotnet_class/obj/Debug/net7.0/ref/dotnet_class.dll
